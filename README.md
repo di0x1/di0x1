@@ -17,6 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
 </div>
 [![LinkedIn](https://www.linkedin.com/in/ricardo-junior-00a5682b6
 
@@ -27,7 +28,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-
+![Java](https://img.shields.io/badge/-Java-F7B731?logo=java&logoColor=fff)
 ---
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -36,6 +37,6 @@
 🌑 Hoje é lua nova! Prepare-se para recomeços e códigos limpinhos.
 <p align="center">
 <p align="center">
-  <img src="https://media.giphy.com/media/8gLZohjDhHXr7vmtD5/giphy.gif" width="250px" />
-</p>
+  <p align="center">
+  
  
