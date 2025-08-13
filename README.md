@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
 </div>
-[![LinkedIn](https://www.linkedin.com/in/ricardo-junior-00a5682b6
+LinkedIn www.linkedin.com/in/ricardoiuji
 
 ---
 
