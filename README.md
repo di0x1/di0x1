@@ -1,15 +1,16 @@
-## Ola tudo bem?
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+%F0%9F%91%91+Ricardo+Iuji;Seja+bem-vindo+ao+meu+GitHub!;Cafés%2C+codigos+%E2%98%95%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+Ricardo+Iuji;Seja+bem-vindo+ao+meu+GitHub!;Cafés%2C+codigos+%E2%98%95%F0%9F%92%BB" />
 </p>
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-- 🌱 estou estudando e aprimorando conhecimentos em java
-- 🤔 sempre que precisar de ajuda pode me chamar
-- 💬 sempre me pergunte como liderar uma equipe
-- 📫 me contate pelo email:dioxricardo@gmail.com
-- ⚡ eu amo jogar e viver no computador
-- ## 📫 Como me encontrar:
-### 🛠️ Tecnologias que uso:
+- 🎓 Estudante de Engenharia de Software na UniCesumar, apaixonado por tecnologia e sempre em busca de novos aprendizados.
+☕ Foco atual em Java e Lógica de Programação, desenvolvendo projetos acadêmicos e pessoais para aplicar e consolidar meus conhecimentos.
+💻 Experiência também em manutenção de computadores e smartphones, incluindo especialização em reparo de iPhones (Face ID).
+
+
+
+
+---
+
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
