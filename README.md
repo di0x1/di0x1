@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+%F0%9F%91%91+Ricardo+Iuji;Seja+bem-vindo+ao+meu+GitHub!;Cafés%2C+codigos+%E2%98%95%F0%9F%92%BB" />
 </p>
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-- 🔭 trabalho atualmente como cientista de dados
 - 🌱 estou estudando e aprimorando conhecimentos em java
 - 🤔 sempre que precisar de ajuda pode me chamar
 - 💬 sempre me pergunte como liderar uma equipe
