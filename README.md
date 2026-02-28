@@ -19,9 +19,9 @@
 <!-- GITHUB STATS -->
 <h2 align="center"> 📊 Github Stats </h2>
 <div align="center">
-  <img width="398" src="https://github-readme-stats-five-blush-73.vercel.app/api?username=di0x1&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub stats" />
+  <img width="398" src="https://github-readme-stats-five-blush-73.vercel.app/api?username=di0x1&theme=midnight-blue&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub stats" />
   <br>
-  <img width="398" src="https://github-readme-stats-five-blush-73.vercel.app/api/top-langs/?username=di0x1&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800" alt="Top Langs" />
+  <img width="398" src="https://github-readme-stats-five-blush-73.vercel.app/api/top-langs/?username=di0x1&theme=midnight-blue&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800" alt="Top Langs" />
 </div>
 
     
