@@ -32,13 +32,11 @@ LinkedIn www.linkedin.com/in/ricardoiuji
 <p align="center">
   <p align="center">
   <div align="center">
-  <a href="https://github.com/di0x1">
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
 
 ## 💻 Tecnologias mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight)
-  </a>
 </div>
   
  
