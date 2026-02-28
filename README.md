@@ -13,7 +13,7 @@
 <h2 align="center"> 👾 Linguagens de Programação e Ferramentas Auxiliares </h2> 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,c" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,java,c,git,github" height="50"/>
 </div>
 
 <!-- GITHUB STATS -->
