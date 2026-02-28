@@ -33,18 +33,11 @@ LinkedIn www.linkedin.com/in/ricardoiuji
   <p align="center">
   <div align="center">
   <a href="https://github.com/di0x1">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=di0x1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
-      alt="Estatísticas do GitHub"
-    />
-  </a>
-  <a href="https://github.com/di0x1">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=di0x1&layout=compact&langs_count=9&theme=tokyonight&custom_title=Tecnologias"
-      alt="Tecnologias mais usadas"
-    />
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
+
+## 💻 Tecnologias mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight)
   </a>
 </div>
   
