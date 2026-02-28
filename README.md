@@ -23,28 +23,33 @@ LinkedIn www.linkedin.com/in/ricardoiuji
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-F7B731?logo=java&logoColor=fff)
-<p align="center">
-<p align="center">
-  <p align="center">
-  <div align="center">
- <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=di0x1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
-      alt="Estatísticas do GitHub"
-    />
-  </a>
-  <a href="https://github.com/di0x1">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=di0x1&layout=compact&langs_count=9&theme=tokyonight&custom_title=Tecnologias"
-      alt="Tecnologias mais usadas"
-    />
-  </a>
+<!-- HARDSKILLS -->
+<h2 align="center"> 👾 Linguagens de Programação e Ferramentas Auxiliares </h2> 
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,c" height="50"/>
+</div>
+
+<!-- GITHUB STATS -->
+<h2 align="center"> 📊 Github Stats </h2>
+<div align="center">
+  <img width="398" src="https://github-readme-stats-five-blush-73.vercel.app/api?username=jotadan&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub stats" />
+  <br>
+  <img width="398" src="https://github-readme-stats-five-blush-73.vercel.app/api/top-langs/?username=jotadan&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800" alt="Top Langs" />
+</div>
+
+    
+<!-- Formas de Contato -->
+<h2 align="center"> 📩 Entre em Contato Comigo!</h2>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/joaodaniel1243@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaodaniel1243@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaodanieldebarros/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/4499710312)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaum_daniel3)
+
+
 </div>
   
  
