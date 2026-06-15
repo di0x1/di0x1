@@ -98,7 +98,7 @@ $ ./run.sh --now
 
 <br><br>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=di0x1&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+<!--<img width="100%" src="https://github-profile-trophy.vercel.app/?username=di0x1&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/> -->
 
 </div>
 
