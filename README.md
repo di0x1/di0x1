@@ -1,13 +1,10 @@
 <!-- ╔═══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    di0x1 // matrix profile                     ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
-<!-- ======================= HEADER ======================= -->
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/di0x1/di0x1/main/assets/matrix-banner.svg" alt="header matrix"/>
 
-<!-- terminal typing -->
 <a href="https://github.com/di0x1">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=720&height=70&lines=root%40di0x1%3A~%23+whoami;Dev+Full-Stack+%26+Security+Enthusiast;Python+%7C+Java+%7C+C+%7C+Ruby+%7C+SQL;Code.+Break.+Learn.+Repeat.;Acesso+concedido_" alt="typing"/>
 </a>
@@ -32,7 +29,7 @@ $ ssh di0x1@matrix --identity ricardo_iuji
   USER ......... Ricardo Iuji   (alias: di0x1)
   ROLE ......... Desenvolvedor Full-Stack / Security Enthusiast
   ORIGIN ....... Brasil
-  STACK ........ Python · Java · C · Ruby · HTML · CSS
+  STACK ........ Python · Java · C · Ruby
   DATABASE ..... PostgreSQL
   SYSTEMS ...... Debian Linux · Windows
   STATUS ....... compilando ideias e quebrando limites
@@ -48,7 +45,6 @@ $ ./run.sh --now
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:003b00&height=3" alt="line"/>
 
-<!-- ======================= TECH STACK ======================= -->
 
 <h3 align="center">┌─[ ~/arsenal ]─[ linguagens & ferramentas ]</h3>
 
@@ -77,8 +73,6 @@ $ ./run.sh --now
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:003b00,100:00ff41&height=3" alt="line"/>
 
-<!-- ======================= GITHUB STATS ======================= -->
-
 <h3 align="center">┌─[ ~/github_stats ]─[ telemetria do sistema ]</h3>
 
 <div align="center">
@@ -104,8 +98,6 @@ $ ./run.sh --now
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:003b00&height=3" alt="line"/>
 
-<!-- ======================= SNAKE ======================= -->
-
 <h3 align="center">┌─[ ~/snake ]─[ a cobra está devorando os commits ]</h3>
 
 <div align="center">
@@ -121,8 +113,6 @@ $ ./run.sh --now
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:003b00,100:00ff41&height=3" alt="line"/>
-
-<!-- ======================= CONNECT ======================= -->
 
 <h3 align="center">┌─[ ~/connect ]─[ estabelecer conexão ]</h3>
 
